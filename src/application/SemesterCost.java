@@ -69,7 +69,6 @@ public class SemesterCost extends Application {
 		//submit button
 		Button submit = new Button("Submit");
 		//submit button on action nested switch statements to check for dorm name and meal plan. 
-		//if the user wishes to only see the dorm cost, they can do so by not selecting a meal plan.
 		submit.setOnAction(e ->{
 			double dormCost = 0.0;
 			double mealCost = 0.0;
