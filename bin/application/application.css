@@ -1,0 +1,14 @@
+.root{
+	-fx-background-color: #EDE1E3;
+	-fx-font-weight: 700;
+	-fx-font-size: 16;
+	-fx-font-family: monospace;
+}
+
+.choice-box .text{
+	-fx-font-size: 12;
+}
+
+.label {
+	-fx-font-weight: 900;
+}
