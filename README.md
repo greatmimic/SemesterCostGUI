@@ -1,5 +1,6 @@
 # SemesterCostGUI
 **JavaFX lib is required to run this program**
+
 A simple JavaFX project to calculate the total cost of dorm and meal plans.
 This program assumes the user select both the dorm name and the meal plan to calculate the total costs.
 Selecting only one value will not give results.
